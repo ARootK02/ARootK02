@@ -1,6 +1,6 @@
 # Hi, I'm Antreas 👋
 
-I'm a **Computer Engineering & Informatics graduate** from the University of Patras, holding a five-year **Integrated Master of Engineering (MEng)** degree.
+I'm a Computer Engineering & Informatics graduate from the University of Patras, holding a five-year Integrated Master's degree.
 
 My academic background spans **software engineering, computer systems, algorithms, data and artificial intelligence**, with hands-on experience through projects in machine learning, distributed systems, databases, compilers, operating systems and web development.
 

@@ -17,7 +17,6 @@ My academic background spans **software engineering, computer systems, algorithm
 **Programming Languages:** Python, C++, C, Java  
 **Web Technologies:** HTML, CSS, JavaScript, PHP  
 **Databases:** SQL, MySQL  
-**Python Libraries:** pandas, scikit-learn  
 **Tools & Systems:** Git, Linux
 
 ## 🚀 Selected Projects
